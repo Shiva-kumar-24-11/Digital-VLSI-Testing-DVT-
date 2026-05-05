@@ -1,4 +1,4 @@
-# 💻 Digital VLSI Testing Lab (01CT0629)
+# 💻 Digital VLSI Testing Lab 
 
 This repository contains all Digital VLSI Testing lab experiments performed as part of my B.Tech ICT curriculum at Marwadi University.
 
