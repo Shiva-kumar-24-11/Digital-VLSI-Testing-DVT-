@@ -97,8 +97,7 @@ The experiments focus on fault detection, design-for-testability (DFT), and veri
 
 **Shiva Kumar**  
 B.Tech ICT  
-Marwadi University  
-Enrollment No: 92301733056  
+Marwadi University   
 
 ---
 
